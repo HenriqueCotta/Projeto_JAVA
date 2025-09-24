@@ -1,0 +1,15 @@
+br\com\gestaoproj\dao\UsuarioDAO.class
+br\com\gestaoproj\model\Equipe.class
+br\com\gestaoproj\Main.class
+br\com\gestaoproj\util\ConexaoMongo.class
+br\com\gestaoproj\dao\ProjetoDAO.class
+br\com\gestaoproj\controller\SistemaController.class
+br\com\gestaoproj\dao\EquipeDAO.class
+br\com\gestaoproj\dao\UsuarioDAOImpl.class
+br\com\gestaoproj\model\Projeto$Status.class
+br\com\gestaoproj\dao\EquipeDAOImpl.class
+br\com\gestaoproj\model\Usuario.class
+br\com\gestaoproj\model\Projeto.class
+br\com\gestaoproj\model\Usuario$Perfil.class
+br\com\gestaoproj\view\SistemaView.class
+br\com\gestaoproj\dao\ProjetoDAOImpl.class
